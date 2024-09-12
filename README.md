@@ -1,13 +1,16 @@
 # **ASSET LEDGER**
 This application is a desktop application made for windows and supports windows 7 and upper versions.
 
+![Asset Ledger Screen View]()
+
 ### **About The App**
 It is a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI
 This application allows you to maintain your data of 4 different categories:
 
 
-* **Investments**
+* **Categories**
   - Savings
+  - Investments
   - Insurance
   - Loans
 
@@ -38,26 +41,20 @@ For Eg: Alerting you about a maturing FD or a policy premium to be paid or the d
 
 
  
-> [!NOTE]
-> Please go through the privacy policy of our application.
+#### **NOTE**
+ Please go through the privacy policy of our application.
 * **Privacy Policy**
   - No data is saved at cloud servers.
   - All data secured in your local computer drive. Therefore no threat of online leakage of data.
   - No third party engagments.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+#### **TIP**
+ Helpful advice for doing things better or more easily.
 
-> [!IMPORTANT]
-> Always give your correct email and phone number as the security alerts and login activity will be sent on it.
-> 
+#### **IMPORTANT**
+Always give your correct email and phone number as the security alerts and login activity will be sent on it.
 * **Data Retreival** :-
   - When your record is saved , it is stored in a encrypted form and no 3rd party can understand it in stored form.
-
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-* **Data Retreival** :-
   - No data can be retreived once damaged or deleted due to our privacy policy of not saving any online cloud backup.
   - But a local local backup is saved simultaneously which can be extracted if needed.
 
