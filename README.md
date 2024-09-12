@@ -53,7 +53,7 @@ Always give your correct email and phone number as the security alerts and login
 * **Data Retreival** :-
   - When your record is saved , it is stored in a encrypted form and no 3rd party can understand it in stored form.
   - No data can be retreived once damaged or deleted due to our privacy policy of not saving any online cloud backup.
-  - But a local local backup is saved simultaneously which can be extracted if needed.
+  - But a local backup is saved simultaneously which can be extracted if needed and not destroyed.
 
 * **Encryption** :-
   - All your text data is encrypted by our encryption algorithym but the pictures and pdf documents you upload in the app wont be encrypted.
