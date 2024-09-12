@@ -64,6 +64,10 @@ Always give your correct email and phone number as the security alerts and login
 - We do not use any of your data but at the same time we are not responsible for any kind of unethically data usage or theft done any online hacker or so not associated with us.
 
 ## **Contact Us**
+### **Social Media Handles**
+ **Youtube** :- [@ASSETLEDGER ](https://www.youtube.com/channel/UCQs_T-zgMnMY3a4AU0Ps9hw)
+ **Gmail** :- [assetledgerquerydesk@gmail.com](https://www.gmail.com)
+
 ### **Developer**
 Kanishk Gupta
 
