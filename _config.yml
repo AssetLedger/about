@@ -1,5 +1,4 @@
-theme : "minimal-mistakes-jekyll"
-remote_theme : "mmistakes/minimal-mistakes"
+theme : minimal-mistakes-jekyll
 title: "ASSET LEDGER APPLICATION"
 name                     : "Kanishk"
 description              : "New theme"
