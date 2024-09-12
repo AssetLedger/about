@@ -1,7 +1,7 @@
 # **ASSET LEDGER**
 This application is a desktop application made for windows and supports windows 7 and upper versions.
 
-![Asset Ledger Screen View](picbg.png)
+![Asset Ledger Screen View](Screenshot (26).png)
 
 ### **About The App**
 It is a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI
