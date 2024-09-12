@@ -47,6 +47,7 @@ For Eg: Alerting you about a maturing FD or a policy premium to be paid or the d
   - No data is saved at cloud servers.
   - All data secured in your local computer drive. Therefore no threat of online leakage of data.
   - No third party engagments.
+  - Almost all textual data is encrypted except the images and the pdfs uploaded on application.
 
 #### **IMPORTANT**
 Always give your correct email and phone number as the security alerts and login activity will be sent on it.
@@ -58,6 +59,9 @@ Always give your correct email and phone number as the security alerts and login
 * **Encryption** :-
   - All your text data is encrypted by our encryption algorithym but the pictures and pdf documents you upload in the app wont be encrypted.
 
+### **DISCLAIMER**
+- All the data uploaded on our application is the choice of the users and we do not promote any illegal activity on our application.
+- We do not use any of your data but at the same time we are not responsible for any kind of unethically data usage or theft done any online hacker or so not associated with us.
 
 ## **Contact Us**
 ### **Developer**
