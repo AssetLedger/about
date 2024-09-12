@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: ASSET LEDGER APPLICATION
-description: Bookmark this to keep an eye on my project updates!
+theme : "minimal-mistakes-jekyll"
+remote_theme : "mmistakes/minimal-mistakes"
+title: "ASSET LEDGER APPLICATION"
+name                     : "Kanishk"
+description              : "New theme"
