@@ -36,8 +36,8 @@ This application allows you to maintain your data of 4 different categories:
   - Private Borrowing
 
 
-The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved my you)
-For Eg: Alerting you about a maturing FD or a policy premium to be paid or the date of Loan EMI ,etc in a buffer period of 14 days(adjustable) before as well as after the date.
+The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved by you)
+For Eg: Alerting you about a maturing FD or a policy premium to be paid or the date of Loan EMI,etc in a buffer period of 14 days(adjustable) before as well as after the date.
 
 
  
@@ -47,9 +47,6 @@ For Eg: Alerting you about a maturing FD or a policy premium to be paid or the d
   - No data is saved at cloud servers.
   - All data secured in your local computer drive. Therefore no threat of online leakage of data.
   - No third party engagments.
-
-#### **TIP**
- Helpful advice for doing things better or more easily.
 
 #### **IMPORTANT**
 Always give your correct email and phone number as the security alerts and login activity will be sent on it.
