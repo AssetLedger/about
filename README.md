@@ -70,6 +70,6 @@ Always give your correct email and phone number as the security alerts and login
  **Gmail** :- [assetledgerquerydesk@gmail.com](https://www.gmail.com)
 
 ### **Developer**
-Kanishk Gupta
+**Kanishk Gupta**
 
 Mail : assetledgerho@gmail.com
