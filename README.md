@@ -1,4 +1,3 @@
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RS09HLL3NX"></script>
 <script>
@@ -49,7 +48,7 @@ This application allows you to maintain your data of 4 different categories:
   - Bank Borrowing
   - Private Borrowing
 
-##**APP ALERTS**
+## **APP ALERTS**
 
 The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved by you)
 For Eg: Alerting you about a maturing FD or a policy premium to be paid or the date of Loan EMI,etc in a buffer period of 14 days(adjustable) before as well as after the date.
