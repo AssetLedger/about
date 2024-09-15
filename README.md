@@ -40,10 +40,13 @@ This application allows you to maintain your data of 4 different categories:
 
 ##**APP ALERTS**
 
-![Asset Ledger Alerts](alert pic.PNG)
 The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved by you)
 For Eg: Alerting you about a maturing FD or a policy premium to be paid or the date of Loan EMI,etc in a buffer period of 14 days(adjustable) before as well as after the date.
 
+![Asset Ledger Alerts](alert pic.PNG)
+
+The image above depicts the small alerts window which will be displayed on the user's screen at the bottom right corner whenever there is an alert.
+This is an auto-start window that do not need any manual initiation.
 
  
 #### **NOTE**
