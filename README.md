@@ -1,3 +1,14 @@
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RS09HLL3NX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RS09HLL3NX');
+</script>
+
 # **ASSET LEDGER**
 This application is a desktop application made for windows and supports windows 7 and upper versions.
 
