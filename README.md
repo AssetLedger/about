@@ -51,7 +51,9 @@ This application allows you to maintain your data of 4 different categories:
 ## **APP ALERTS**
 
 The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved by you)
-For Eg: Alerting you about a maturing FD or a policy premium to be paid or the date of Loan EMI,etc in a buffer period of 14 days(adjustable) before as well as after the date.
+For Eg: Alerting you about a maturing FD or a policy premium to be paid or the date of Loan EMI,etc in a buffer period of 14 days(adjustable) i.e. 7 days before as well as after the date.
+
+* If you want to increase or decrease the buffer period for alerts, it will be done by our in-app customisation procedure **with not extra charges.** You just need to mail us your requirement at assetledgerquerydesk@gmail.com .
 
 ![Asset Ledger Alerts](alert pic.PNG)
 
