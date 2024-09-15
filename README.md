@@ -46,7 +46,7 @@ For Eg: Alerting you about a maturing FD or a policy premium to be paid or the d
 * **Privacy Policy**
   - No data is saved at cloud servers.
   - All data secured in your local computer drive. Therefore no threat of online leakage of data.
-  - No third party engagments.
+  - No third party data sharing.
   - Almost all textual data is encrypted except the images and the pdfs uploaded on application.
 
 #### **IMPORTANT**
@@ -62,6 +62,7 @@ Always give your correct email and phone number as the security alerts and login
 ### **DISCLAIMER**
 - All the data uploaded on our application is the choice of the users and we do not promote any illegal activity on our application.
 - We do not use any of your data but at the same time we are not responsible for any kind of unethically data usage or theft done any online hacker or so not associated with us.
+- The application is a free to use application for everyone till a period of 1 year after setup. And afterwards we reserve the rights to set a renewal fee if required to continue your access.
 
 ## **Contact Us**
 ### **Social Media Handles**
