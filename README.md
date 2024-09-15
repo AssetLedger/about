@@ -58,7 +58,7 @@ This is an auto-start window that do not need any manual initiation.
   - Almost all textual data is encrypted except the images and the pdfs uploaded on application.
  
 * **In-App Customisations**
-  - Our support team also catter to your personal demands and any kind of customisations in the app you want.
+  - Our support team also cater to your personal demands and any kind of customisations in the app you want.
   - Customisations are chargable and charges may vary from type to type depending on the task.
 
 #### **IMPORTANT**
