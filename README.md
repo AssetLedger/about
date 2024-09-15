@@ -38,7 +38,8 @@ This application allows you to maintain your data of 4 different categories:
   - Bank Borrowing
   - Private Borrowing
 
-
+##**APP ALERTS**
+![Asset Ledger Alerts](alert pic.png)
 The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved by you)
 For Eg: Alerting you about a maturing FD or a policy premium to be paid or the date of Loan EMI,etc in a buffer period of 14 days(adjustable) before as well as after the date.
 
@@ -51,6 +52,10 @@ For Eg: Alerting you about a maturing FD or a policy premium to be paid or the d
   - All data secured in your local computer drive. Therefore no threat of online leakage of data.
   - No third party data sharing.
   - Almost all textual data is encrypted except the images and the pdfs uploaded on application.
+ 
+* **In-App Customisations**
+  - Our support team also catter to your personal demands and any kind of customisations in the app you want.
+  - Customisations are chargable and charges may vary from type to type depending on the task.
 
 #### **IMPORTANT**
 Always give your correct email and phone number as the security alerts and login activity will be sent on it.
