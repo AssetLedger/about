@@ -8,6 +8,9 @@ It is a digital passbook which compiles your scattered data at one place for fut
 This application allows you to maintain your data of 4 different categories:
 
 
+**The latest working version of our application is *Asset Ledger 1.0* dated(14-09-2024)**
+
+
 * **Categories**
   - Savings
   - Investments
