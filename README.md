@@ -44,48 +44,27 @@ This application allows you to maintain your data of 4 different categories:
 
 
 * **Categories**
-  - Savings
+  - **Savings**
     - Fixed Deposits
     - Public Providend Funds
     - Savings A/C
     - Sukanya Savings A/C
 
-  - Investments
+  - **Investments**
     - Shares
     - Commodities
     - Property
       
-  - Insurance
+  - **Insurance**
     - Life Insurance
     - General Insurance
     - Mediclaim
       
-  - Loans
+  - **Loans**
     - Private Lending
     - Bank Borrowing
     - Private Borrowing
     
-* **Savings**
-  - Fixed Deposits
-  - Public Providend Funds
-  - Savings A/C
-  - Sukanya Savings A/C
-
-* **Investments**
-  - Shares
-  - Commodities
-  - Property
-
-* **Insurance**
-  - Life Insurance
-  - General Insurance
-  - Mediclaim
-
-* **Loans**
-  - Private Lending
-  - Bank Borrowing
-  - Private Borrowing
-
 ## **APP ALERTS**
 
 The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved by you)
