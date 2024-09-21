@@ -18,9 +18,12 @@ This application is a desktop application made for windows and supports windows 
 Other Versions: Asset Ledger 1.0 , release 14-9-2024
 
 #### **What's New**
+
+![Alerts Window](Capture.PNG)
+
 In this version, we have given users the control to decide what alerts they to be notified about and what not.
 
-
+In the above image you'll be able to see the setting in the bottom of the alerts page.
 
 [Click here to download the installer.](https://assetledger.github.io/aboutus/downloads.html)
 
