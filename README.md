@@ -10,9 +10,11 @@
 
 # **ASSET LEDGER**
 
-**Facing problem remembering your assets and managing their due dates ?**
+**Facing problem remembering your assets**
 
-No more worries , here is the solution - "ASSET LEDGER"
+**Missing out investment opportunities because you forget the due dates?**
+
+Only one solution to your problem - "ASSET LEDGER"
 
 This application is a desktop application made for windows and supports windows 7 and upper versions.
 
