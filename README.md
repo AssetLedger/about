@@ -10,9 +10,9 @@
 
 # **ASSET LEDGER**
 
-**Facing problem remembering your assets**
+**Facing problem remembering your assets ?**
 
-**Missing out investment opportunities because you forget the due dates?**
+**Missing out investment opportunities because you forget the due dates ?**
 
 Only one solution to your problem - "ASSET LEDGER"
 
