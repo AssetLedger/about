@@ -14,10 +14,14 @@ This application is a desktop application made for windows and supports windows 
 ![Asset Ledger Screen View](Screenshot (26).png)
 
 **The latest working version of our application is *Asset Ledger 1.2* dated(19-09-2024)**
-
 Other Versions: Asset Ledger 1.0 , release 14-9-2024
 
-[Click here to download the app installer.](https://assetledger.github.io/aboutus/downloads.html)
+#### **What's New**
+In this version, we have given users the control to decide what alerts they to be notified about and what not.
+
+
+
+[Click here to download the installer.](https://assetledger.github.io/aboutus/downloads.html)
 
 ### **About The App**
 It is a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI
