@@ -24,7 +24,9 @@ This application is a desktop application made for windows and supports windows 
 
 Other Versions: Asset Ledger 1.0 , release 14-9-2024
 
-#### **What's New**
+### **What's New**
+
+The latest working version of our application is *Asset Ledger 1.2* dated(19-09-2024)
 
 ![Alerts Window](Capture.PNG)
 
