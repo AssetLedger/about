@@ -9,6 +9,11 @@
 </script>
 
 # **ASSET LEDGER**
+
+**Facing problem remembering your assets and managing their due dates ?**
+
+No more worries , here is the solution - "ASSET LEDGER"
+
 This application is a desktop application made for windows and supports windows 7 and upper versions.
 
 ![Asset Ledger Screen View](Screenshot (26).png)
@@ -29,7 +34,7 @@ In the above image you'll be able to see the setting in the bottom of the alerts
 [Click here to download the installer.](https://assetledger.github.io/aboutus/downloads.html)
 
 ### **About The App**
-It is a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI
+It is like a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI
 This application allows you to maintain your data of 4 different categories:
 
 
