@@ -26,7 +26,7 @@ Other Versions: Asset Ledger 1.0 , release 14-9-2024
 
 ### **What's New**
 
-The latest working version of our application is *Asset Ledger 1.2* dated(19-09-2024)
+The latest version of our application is *Asset Ledger 1.2* dated(19-09-2024)
 
 ![Alerts Window](Capture.PNG)
 
@@ -36,7 +36,11 @@ Apart from category specific restrictions , if you want to stop seeing every kin
 
 In the above image you'll be able to see the setting in the bottom of the alerts page.
 
+
+### Downlaods
+
 [Click here to download the installer.](https://assetledger.github.io/aboutus/downloads.html)
+
 
 ### **About The App**
 It is like a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI
