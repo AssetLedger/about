@@ -22,6 +22,7 @@ Other Versions: Asset Ledger 1.0 , release 14-9-2024
 ![Alerts Window](Capture.PNG)
 
 In this version, we have given users the control to decide what alerts they to be notified about and what not.
+
 If you want to stop seeing any kind of notification , uncheck the "Show Alerts Popup" , you will not be notified about any future alerts untill it is again checked active.
 In the above image you'll be able to see the setting in the bottom of the alerts page.
 
