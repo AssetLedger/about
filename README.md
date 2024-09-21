@@ -51,7 +51,7 @@ This application allows you to maintain your data of 4 different categories:
   - **Savings**
     - Fixed Deposits
     - Public Providend Funds
-    - Savings A/C
+    - Bank Details
     - Sukanya Savings A/C
 
   - **Investments**
