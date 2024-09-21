@@ -43,10 +43,26 @@ This application allows you to maintain your data of 4 different categories:
 
 * **Categories**
   - Savings
-  - Investments
-  - Insurance
-  - Loans
+    - Fixed Deposits
+    - Public Providend Funds
+    - Savings A/C
+    - Sukanya Savings A/C
 
+  - Investments
+    - Shares
+    - Commodities
+    - Property
+      
+  - Insurance
+    - Life Insurance
+    - General Insurance
+    - Mediclaim
+      
+  - Loans
+    - Private Lending
+    - Bank Borrowing
+    - Private Borrowing
+    
 * **Savings**
   - Fixed Deposits
   - Public Providend Funds
