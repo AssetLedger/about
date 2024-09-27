@@ -41,7 +41,7 @@ Also , we are introducing **Asset Ledger Dashboard** for the first time in this 
 In one table you will be displayed all your assets and their total in the bottom right. Similarly , in the next table you will be displayed all your liabilities and their total in bottom right.
 
 
-### Downlaods
+### **Downlaods**
 
 [Click here to download Asset Ledger 1.2 installer.](https://assetledger.github.io/aboutus/downloads.html)
 
