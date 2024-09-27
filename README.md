@@ -18,6 +18,8 @@ Only one solution to all your problems - "ASSET LEDGER"
 
 This application is a desktop application made for windows and supports windows 7 and upper versions.
 
+**Asset Ledger 1.2 :**
+
 ![Asset Ledger Screen View](Screenshot (26).png)
 
 **The latest working version of our application is *Asset Ledger 1.2* dated(19-09-2024)**
