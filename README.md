@@ -74,7 +74,7 @@ This application allows you to maintain your data of 5 different categories:
   - **Money ( Launching in Asset Ledger 2.0 )**
     - Incomes and Expenses
           
-## **APP ALERTS**
+## **ALERTS PAGE & APP ALERTS**
 
 The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved by you)
 For Eg: Alerting you about a maturing FD or a policy premium to be paid or the date of Loan EMI,etc in a buffer period of 14 days(adjustable) i.e. 7 days before as well as after the date.
