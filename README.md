@@ -91,7 +91,7 @@ This is an auto-start window that do not need any manual initiation.
 
 ![Alerts Window](Capture.PNG)
 
-From Asset Ledger 2.0 , we have given users the control to decide what alerts they to be notified about and what not.
+From Asset Ledger 1.2 , we have given users the control to decide what alerts they to be notified about and what not.
 
 Apart from category specific restrictions , if you want to stop seeing every kind of notification , uncheck the "Show Alerts Popup" , you will not be notified about any future alerts untill it is again checked active.
 
