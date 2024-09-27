@@ -24,7 +24,7 @@ This application is a desktop application made for windows and supports windows 
 
 **The latest working version of our application is *Asset Ledger 1.2* dated(19-09-2024)**
 
-Upcoming Release : **Asset Ledger 2.0**
+Releasing Soon : **Asset Ledger 2.0**
 
 Other Versions: Asset Ledger 1.0 , release 14-9-2024
 
@@ -39,7 +39,7 @@ Apart from category specific restrictions , if you want to stop seeing every kin
 In the above image you'll be able to see the setting in the bottom of the alerts page.
 
 
-### **New Launches in Asset Ledger 2.0**
+## **New Launches in Asset Ledger 2.0**
 
 ![Asset ledger 2.0 Home](home 2.0.PNG)
 
@@ -82,7 +82,7 @@ This application allows you to maintain your data of 5 different categories:
     - Bank Borrowing
     - Private Borrowing
       
-  - **Money** ( Launching in Asset Ledger 2.0 )
+  - **Money ( Launching in Asset Ledger 2.0 )**
     - Incomes and Expenses
           
 ## **APP ALERTS**
