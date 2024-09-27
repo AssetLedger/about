@@ -37,14 +37,11 @@ Apart from category specific restrictions , if you want to stop seeing every kin
 In the above image you'll be able to see the setting in the bottom of the alerts page.
 
 
-### **New Launches in Asset Ledger 2.0 **
+### **New Launches in Asset Ledger 2.0**
 
-![Asset ledger 2.0 Home](Capture.PNG)
+![Asset ledger 2.0 Home](home 2.0.PNG)
 
 In this version, We have added an option of "Money" where users can add their incomes and expenses and keep record of their monthly budget.
-
-![Asset ledger 2.0 Home](Capture.PNG)
-
 
 Also , we are introducing **Asset Ledger Dashboard** for the first time in this version . Here you can see the summary of your assets in an orderly format with a category wise distribution.
 
