@@ -28,17 +28,6 @@ Releasing Soon : **Asset Ledger 2.0**
 
 Other Versions: Asset Ledger 1.0 , release 14-9-2024
 
-### **What's New in Asset Ledger 1.2**
-
-![Alerts Window](Capture.PNG)
-
-In this version, we have given users the control to decide what alerts they to be notified about and what not.
-
-Apart from category specific restrictions , if you want to stop seeing every kind of notification , uncheck the "Show Alerts Popup" , you will not be notified about any future alerts untill it is again checked active.
-
-In the above image you'll be able to see the setting in the bottom of the alerts page.
-
-
 ## **New Launches in Asset Ledger 2.0**
 
 ![Asset ledger 2.0 Home](home 2.0.PNG)
@@ -95,7 +84,16 @@ For Eg: Alerting you about a maturing FD or a policy premium to be paid or the d
 ![Asset Ledger Alerts](alert pic.PNG)
 
 The image above depicts the small alerts window which will be displayed on the user's screen at the bottom right corner whenever there is an alert.
+
 This is an auto-start window that do not need any manual initiation.
+
+![Alerts Window](Capture.PNG)
+
+From Asset Ledger 2.0 , we have given users the control to decide what alerts they to be notified about and what not.
+
+Apart from category specific restrictions , if you want to stop seeing every kind of notification , uncheck the "Show Alerts Popup" , you will not be notified about any future alerts untill it is again checked active.
+
+In the above image you'll be able to see the setting in the bottom of the alerts page.
 
  
 #### **NOTE**
