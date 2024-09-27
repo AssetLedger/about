@@ -11,10 +11,10 @@
 # **ASSET LEDGER**
 
 **Facing problem remembering your assets ?**
-
+**Finding difficulty in maintaining monthly expense records?**
 **Missing out investment opportunities because you forget the due dates ?**
 
-Only one solution to your problem - "ASSET LEDGER"
+Only one solution to all your problems - "ASSET LEDGER"
 
 This application is a desktop application made for windows and supports windows 7 and upper versions.
 
@@ -22,11 +22,11 @@ This application is a desktop application made for windows and supports windows 
 
 **The latest working version of our application is *Asset Ledger 1.2* dated(19-09-2024)**
 
+Upcoming Release : **Asset Ledger 2.0**
+
 Other Versions: Asset Ledger 1.0 , release 14-9-2024
 
-### **What's New**
-
-The latest version of our application is *Asset Ledger 1.2* dated(19-09-2024)
+### **What's New in Asset Ledger 1.2**
 
 ![Alerts Window](Capture.PNG)
 
@@ -37,14 +37,28 @@ Apart from category specific restrictions , if you want to stop seeing every kin
 In the above image you'll be able to see the setting in the bottom of the alerts page.
 
 
+### **New Launches in Asset Ledger 2.0 **
+
+![Asset ledger 2.0 Home](Capture.PNG)
+
+In this version, We have added an option of "Money" where users can add their incomes and expenses and keep record of their monthly budget.
+
+![Asset ledger 2.0 Home](Capture.PNG)
+
+
+Also , we are introducing **Asset Ledger Dashboard** for the first time in this version . Here you can see the summary of your assets in an orderly format with a category wise distribution.
+
+In one table you will be displayed all your assets and their total in the bottom right. Similarly , in the next table you will be displayed all your liabilities and their total in bottom right.
+
+
 ### Downlaods
 
-[Click here to download the installer.](https://assetledger.github.io/aboutus/downloads.html)
+[Click here to download Asset Ledger 1.2 installer.](https://assetledger.github.io/aboutus/downloads.html)
 
 
 ### **About The App**
 It is like a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI
-This application allows you to maintain your data of 4 different categories:
+This application allows you to maintain your data of 5 different categories:
 
 
 * **Categories**
@@ -68,7 +82,10 @@ This application allows you to maintain your data of 4 different categories:
     - Private Lending
     - Bank Borrowing
     - Private Borrowing
-    
+      
+  - **Money** ( Launching in Asset Ledger 2.0 )
+    - Incomes and Expenses
+          
 ## **APP ALERTS**
 
 The major benefit of our application is the alogirthm of alerting you about any upcoming event (acc. to the date saved by you)
@@ -105,13 +122,15 @@ Always give your correct email and phone number as the security alerts and login
   - All your text data is encrypted by our encryption algorithym but the pictures and pdf documents you upload in the app wont be encrypted.
 
 ### **DISCLAIMER**
-- All the data uploaded on our application is the choice of the users and we do not promote any illegal activity on our application.
-- We do not use any of your data but at the same time we are not responsible for any kind of unethically data usage or theft done any online hacker or so not associated with us.
-- The application is a free to use application for everyone till a period of 1 year after setup. And afterwards we reserve the rights to set a renewal fee if required to continue your access.
+  - All the data uploaded on our application is the choice of the users and we do not promote any illegal activity on our application.
+  - We do not use any of your data but at the same time we are not responsible for any kind of unethically data usage or theft done any online hacker or so not associated with us.
+  - The application is a free to use application for everyone till a period of 1 year after setup. And afterwards we reserve the rights to set a renewal fee if required to continue your access.
 
 ## **Contact Us**
 ### **Social Media Handles**
- **Youtube** :- [@ASSETLEDGER ](https://www.youtube.com/channel/UCQs_T-zgMnMY3a4AU0Ps9hw)
+ **Youtube** :- [@ASSETLEDGER](https://www.youtube.com/channel/UCQs_T-zgMnMY3a4AU0Ps9hw)
+
+**Instagram** :- [@asset_ledger](https://www.instagram.com/asset_ledger?igsh=amhzOGw5MWJjaGcw)
  
  **Gmail** :- [assetledgerquerydesk@gmail.com](https://www.gmail.com)
 
