@@ -20,15 +20,15 @@ Only one solution to all your problems - "ASSET LEDGER"
 
 This application is a desktop application made for windows and supports windows 7 and upper versions.
 
-**Asset Ledger 1.2 :**
+**Asset Ledger 2.0 :**
 
-![Asset Ledger Screen View](Screenshot (26).png)
+![Asset Ledger Screen View](home 2.0.PNG)
 
-**The latest working version of our application is *Asset Ledger 1.2* dated(19-09-2024)**
+**The latest working version of our application is *Asset Ledger 2.0* dated(03-10-2024)**
 
-Releasing Soon : **Asset Ledger 2.0**
+Other Versions: Asset Ledger 1.0 , release 14-9-2024,
 
-Other Versions: Asset Ledger 1.0 , release 14-9-2024
+Asset Ledger 1.2 , release 19-09-2024
 
 ## **New Launches in Asset Ledger 2.0**
 
@@ -43,8 +43,7 @@ In one table you will be displayed all your assets and their total in the bottom
 
 ### **Downlaods**
 
-[Click here to download Asset Ledger 1.2 installer.](https://assetledger.github.io/aboutus/downloads.html)
-
+[Click here to download Asset Ledger 2.0 installer.](https://assetledger.github.io/aboutus/downloads.html)
 
 ### **About The App**
 It is like a digital passbook which compiles your scattered data at one place for future reference with a user friendly GUI
@@ -73,7 +72,7 @@ This application allows you to maintain your data of 5 different categories:
     - Bank Borrowing
     - Private Borrowing
       
-  - **Money ( Launching in Asset Ledger 2.0 )**
+  - **Money ( Launched in Asset Ledger 2.0 )**
     - Incomes and Expenses
           
 ## **ALERTS PAGE & APP ALERTS**
